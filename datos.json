@@ -1,10 +1,6 @@
 {
   "teams": [
-    { "id": 1, "name": "Federico Coraglio INC", "ticker": "ALPH", "valuation": 1250000 },
-    { "id": 2, "name": "Beta Capital", "ticker": "BETA", "valuation": 980000 },
-    { "id": 3, "name": "Gamma Squad", "ticker": "GMMA", "valuation": 1540000 },
-    { "id": 4, "name": "Delta Force", "ticker": "DLTA", "valuation": 720000 },
-    { "id": 5, "name": "Epsilon Group", "ticker": "EPSN", "valuation": 1100000 }
+    { "id": 1, "name": "Test company", "ticker": "TEST", "valuation": 0 },
   ],
   "announcement": "¡Bienvenidos al Hackathon Exchange!"
 }
