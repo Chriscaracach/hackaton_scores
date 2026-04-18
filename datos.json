@@ -10,67 +10,67 @@
       "id": 2,
       "name": "Los Gonzalos",
       "ticker": "LGON",
-      "valuation": 1300000
+      "valuation": 2500000
     },
     {
       "id": 3,
       "name": "Chess 3D",
       "ticker": "CHESS",
-      "valuation": 1050000
+      "valuation": 2750000
     },
     {
       "id": 4,
       "name": "N3N",
       "ticker": "N3N",
-      "valuation": 800000
+      "valuation": 1300000
     },
     {
       "id": 5,
       "name": "Sacude Tech",
       "ticker": "SACU",
-      "valuation": 300000
+      "valuation": 800000
     },
     {
       "id": 6,
       "name": "L9",
       "ticker": "L9",
-      "valuation": 1300000
+      "valuation": 2800000
     },
     {
       "id": 7,
       "name": "Cómplices",
       "ticker": "COMP",
-      "valuation": 1200000
+      "valuation": 3000000
     },
     {
       "id": 8,
       "name": "Gagatón",
       "ticker": "GAGA",
-      "valuation": 500000
+      "valuation": 1500000
     },
     {
       "id": 9,
       "name": "Verbalia",
       "ticker": "VERB",
-      "valuation": 1200000
+      "valuation": 1700000
     },
     {
       "id": 10,
       "name": "Sun River",
       "ticker": "SUNR",
-      "valuation": 400000
+      "valuation": 1100000
     },
     {
       "id": 11,
-      "name": "La tutineta",
-      "ticker": "TUTI",
-      "valuation": 800000
+      "name": "La tuttineta",
+      "ticker": "TUTTI",
+      "valuation": 1700000
     },
     {
       "id": 12,
       "name": "Docta Go",
       "ticker": "DOCT",
-      "valuation": 1400000
+      "valuation": 2200000
     }
   ]
 }
