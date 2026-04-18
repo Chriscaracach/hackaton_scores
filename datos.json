@@ -65,12 +65,12 @@
       "name": "La tutineta",
       "ticker": "TUTI",
       "valuation": 800000
-    },   
+    },
     {
       "id": 12,
       "name": "Docta Go",
       "ticker": "DOCT",
       "valuation": 1400000
-    },
+    }
   ]
 }
